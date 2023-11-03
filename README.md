@@ -10,7 +10,7 @@
 #
 <br>
 
-# Read before you start:
+# Read before you start
 
 * This script (script.vbs) is for running a **regular USB** like **Rubber Ducky** with **USB-AutoRun**, not a real Rubber Ducky USB and is designed to collect **various system information** and **Wi-Fi Passwords** by running a script (root.ps1) on a **removable USB drive**.
 
