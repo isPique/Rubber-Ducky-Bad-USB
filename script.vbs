@@ -40,4 +40,7 @@ If Not IsEmpty(usbDriveLetter) Then
 
     SlowSendKeys objShell, "powershell.exe -ExecutionPolicy Bypass -File " & powershellScriptPath, 10
     objShell.SendKeys "{ENTER}"
+
+    SlowSendKeys objShell, "Exit", 10
+    objShell.SendKeys "{ENTER}"
 End If
