@@ -12,6 +12,8 @@
 
 # Read before you start
 
+* The objective of this repository is to serve as an example, it has educational purposes, and in no case does it pretend to be perfect or fully functional.
+
 * This script (script.vbs) is for running a **regular USB** like **Rubber Ducky** with **USB-AutoRun**, not a real Rubber Ducky USB and is designed to collect **various system information** and **Wi-Fi Passwords** by running a script (root.ps1) on a **removable USB drive**.
 
 * The `-ExecutionPolicy Bypass` option allows the script to run bypassing the default execution policies. This gives the user more control when running the PowerShell script, potentially bypassing advanced security measures.
