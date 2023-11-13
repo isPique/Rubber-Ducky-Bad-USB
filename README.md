@@ -63,3 +63,7 @@
   ![PowerShell](https://github.com/isPique/Rubber-Ducky-Bad-USB/assets/139041426/224eb470-21e9-4260-96e1-07fa4ea11cb8)
 
   * See, it's working :>
+
+# Donations Accepted:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ispique)
