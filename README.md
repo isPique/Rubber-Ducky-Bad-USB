@@ -10,11 +10,15 @@
 #
 <br>
 
+# What is Rubber Ducky?
+
+* The Rubber Ducky is an HID (Human Interface Device), which are devices such as keyboards, mouses, and joysticks that interface with humans. When these devices are connected to a computer via USB, they are not blocked by the computer's firewall. In other words, they are considered trustworthy by the system and are not subject to control. Unlike other USB inputs, which are controlled by the computer, once the USB containing the Rubber Ducky payload is encoded, the computer recognizes it as an HID. Due to this lack of scrutiny, if the device contains malicious software, it can potentially harm or hack into your computer. Therefore, I recommend not connecting unknown USB devices to your computer.
+
 # Read before you start
 
 * The objective of this repository is to serve as an example, it has educational purposes, and in no case does it pretend to be perfect or fully functional.
 
-* This script (script.vbs) is for running a **regular USB** like **Rubber Ducky** with **USB-AutoRun**, not a real Rubber Ducky USB and is designed to collect **various system information** and **Wi-Fi Passwords** by running a script (root.ps1) on a **removable USB drive**.
+* This script (script.vbs) is for running a **regular USB** like **Rubber Ducky** with **USB-AutoRun**, not a real **Rubber Ducky USB** and is designed to collect **various system information** and **Wi-Fi Passwords** by running a script (root.ps1) on a **removable USB drive**.
 
 * The `-ExecutionPolicy Bypass` option allows the script to run bypassing the default execution policies. This gives the user more control when running the PowerShell script, potentially bypassing advanced security measures.
 
