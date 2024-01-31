@@ -2,7 +2,7 @@
 
 # 💀 Rubber Ducky Bad USB 💀
 
-**This is a Visual Basic Script (VBS) that uses Windows Script Host (WSH) to perform various actions and running the Windows PowerShell script named `root.ps1` from a USB drive, it bypasses PowerShell Execution Policy and executes the PowerShell script from the USB drive.**
+**This is a Visual Basic Script (VBS) designed to act like a Rubber Ducky, using Windows Script Host (WSH) and running a Windows PowerShell script named `root.ps1` from the USB drive to perform various actions. The names and locations of the scripts must not be changed for them to work correctly!**
 
 <br><img src="https://github.com/isPique/Rubber-Ducky-Bad-USB/assets/139041426/c637196b-5fab-4970-b9ab-b4555e8a105a" width="700">
 </div>
