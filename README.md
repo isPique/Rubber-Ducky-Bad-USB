@@ -2,7 +2,7 @@
 
 # 💀 Rubber Ducky Bad USB 💀
 
-**This is a Visual Basic Script (VBS) designed to act like a Rubber Ducky, using Windows Script Host (WSH) and running a Windows PowerShell script named `root.ps1` from the USB drive to perform various actions. The names and locations of the scripts must not be changed for them to work correctly!**
+**This script is designed to act like a Rubber Ducky using the [WshShell.SendKeys](https://ss64.com/vb/sendkeys.html) method from the Windows Script Host (WSH). You can add more commands to [root.ps1](https://github.com/isPique/Rubber-Ducky-Bad-USB/blob/main/root.ps1) file to gather any information you want.**
 
 <br><img src="https://github.com/isPique/Rubber-Ducky-Bad-USB/assets/139041426/c637196b-5fab-4970-b9ab-b4555e8a105a" width="700">
 </div>
@@ -18,7 +18,7 @@
 
 * The objective of this repository is to serve as an example, it has educational purposes, and in no case does it pretend to be perfect or fully functional.
 
-* This script (script.vbs) is for running a **regular USB** like **Rubber Ducky** with **USB-AutoRun**, not a real **Rubber Ducky USB** and is designed to collect **various system information** and **Wi-Fi Passwords** by running a script (root.ps1) on a **removable USB drive**.
+* This script is for running a **regular USB** like **Rubber Ducky** with **USB-AutoRun**, not a real **Rubber Ducky USB** and is designed to collect **many system information** and **Wi-Fi Passwords** by running another script (root.ps1).
 
 * The `-ExecutionPolicy Bypass` option allows the script to run bypassing the default execution policies. This gives the user more control when running the PowerShell script, potentially bypassing advanced security measures.
 
@@ -67,7 +67,3 @@
   ![PowerShell](https://github.com/isPique/Rubber-Ducky-Bad-USB/assets/139041426/224eb470-21e9-4260-96e1-07fa4ea11cb8)
 
   * See, it's working :>
-
-# Donations Accepted:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ispique)
